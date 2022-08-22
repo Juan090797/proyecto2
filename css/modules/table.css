@@ -5,6 +5,7 @@
   
   .table {
     background-color: var(--tertiary-shadow-color);
+    background-image: url("https://i.pinimg.com/originals/5e/8d/16/5e8d16d62398e2b156b6f044d394e086.jpg");
   }
   
   .table__header {
